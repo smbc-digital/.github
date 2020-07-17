@@ -1,0 +1,8 @@
+{
+  "name": "SMBC Workflow",
+  "description": "SMBC publish NuGet package prerelease",
+  "iconName": "smbc-icon",
+  "categories": [
+      "C#"
+  ]
+}
