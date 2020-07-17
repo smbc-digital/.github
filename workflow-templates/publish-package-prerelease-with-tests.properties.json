@@ -1,5 +1,5 @@
 {
-  "name": "SMBC Workflow",
+  "name": "SMBC NuGet Publish Prerelease & Test Workflow Template",
   "description": "SMBC test & publish NuGet package prerelease",
   "iconName": "smbc-icon",
   "categories": [
