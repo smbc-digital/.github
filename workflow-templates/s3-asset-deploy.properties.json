@@ -1,0 +1,8 @@
+{
+  "name": "SMBC AWS S3 Asset Deloy Workflow Template",
+  "description": "SMBC amazon s3 asset deploy",
+  "iconName": "smbc-icon",
+  "categories": [
+      "JavaScript"
+  ]
+}
